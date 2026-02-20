@@ -37,6 +37,7 @@ This project is a custom WordPress theme developed as part of a Web Developer as
 ## ScreenShot
 <img width="514" height="705" alt="image" src="https://github.com/user-attachments/assets/299bbb8e-1909-4f38-8708-33a802a199a9" />
 <img width="523" height="772" alt="image" src="https://github.com/user-attachments/assets/47edcccb-8bd5-4af4-9dd9-01e7d83a9ffc" />
+
 <img width="383" height="492" alt="image" src="https://github.com/user-attachments/assets/c0ef06fc-164e-4c89-acc4-b0fde55d15b8" />
 
 
