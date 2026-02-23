@@ -34,16 +34,17 @@ add_theme_support('post-thumbnails');
 
 
 // Create Custom Post Type for Products
-function create_products_post_type() {
-    register_post_type('products',
-        array(
-            'labels' => array(
-                'name' => __('Products'),
-                'singular_name' => __('Product')
-            ),
-            'public' => true,
-            'supports' => array('title', 'thumbnail')
-        )
-    );
-}
-add_action('init', 'create_products_post_type');
+//function create_products_post_type() {
+  //  register_post_type('products',
+//         array(
+//             'labels' => array(
+//                 'name' => __('Products'),
+//                 'singular_name' => __('Product')
+//             ),
+//             'public' => true,
+//             'supports' => array('title', 'thumbnail')
+//         )
+//     );
+// }
+// add_action('init', 'create_products_post_type');
+
